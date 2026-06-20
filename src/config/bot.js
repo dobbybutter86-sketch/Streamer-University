@@ -15,7 +15,7 @@ export const botConfig = {
 
     // Activity lines shown under the bot name.
     // `type` number mapping from Discord:
-    // 0 = Playing
+    // 0 = Managing
     // 1 = Streaming
     // 2 = Listening
     // 3 = Watching
@@ -91,8 +91,8 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#336699",
-      secondary: "#2F3136",
+      primary: "#DEDE26",
+      secondary: "#000000",
 
       // Standard status colors for success/error/warning/info messages.
       success: "#57F287",
